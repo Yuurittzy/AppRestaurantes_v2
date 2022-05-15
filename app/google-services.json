@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211650930693",
+    "project_id": "yuuritzy-2279d",
+    "storage_bucket": "yuuritzy-2279d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211650930693:android:aff0bb8d0a9af22703146c",
+        "android_client_info": {
+          "package_name": "com.example.lab_restaurantes_yuritzy_rodriguez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211650930693-i9vcf14clbhm9sh4e1odc72t2f5m5ip0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtoCkW8S-KgqfgJIgnnmwhvrB57iTNyrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211650930693-i9vcf14clbhm9sh4e1odc72t2f5m5ip0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
